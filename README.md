@@ -1,16 +1,9 @@
 # 100 Days of Node
 A Node.js curriculum for 100 days of code. I'll be taking up the [100 Days of Code](https://www.100daysofcode.com/) challenge, but strictly focusing on Node and Node-adjacent code.
 
-I don't know Node. Actually, it's just that I don't know Node as well as I could. I'll spend 100 days learning all about the in and outs of Node; what it can do; and where it's the best (and worst) technology to solve any particular challenge. 
-
 Any suggestions for little programs, code challenges, or applications that can showcase different features and abilities of Node that could be added to this list would be greatly appreciated...
 
-## Topics that I don't know how to work into a small application or code challenges, yet:
-- Using Node Locally (Name some additional reasons to use Node locally)
-- Asynchronous Patterns
-- Advanced Streams
-- HTTP Streams
-- ???
+What follows is less an outline, more a list of ideas with which to work.
 
 ## The 100 Days of Node list (so far)
 1. ["Hello World"](#000-hello-world)
@@ -98,13 +91,4 @@ Any suggestions for little programs, code challenges, or applications that can s
 
 101\. Profit!
 
-### 000 "Hello World"
-- [Install Node.js](https://nodejs.org/en/download/)
-- Write "Hello World"
-
-Let's start with an easy win! Install Node.js and write a Hello World script named `000-hello-world.js`
-
-## Resources
-- [Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA) (video), freeCodeCamp
-- [Learning Node, 2nd Edition](https://oreilly.com/library/view/learning-node-2nd/9781491943113/), O'Reilly
-- [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/node-js-handbook/), freeCodeCamp
+[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
